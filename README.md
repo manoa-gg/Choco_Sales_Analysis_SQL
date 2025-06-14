@@ -52,3 +52,30 @@ select `month`, count(sales_person) as total_transactions,
 from choco_sales_2
 group by `month`
 order by monthly_revenue desc;
+
+````
+## 📈 Insights and Recommendations
+
+**Insight 1: Peak Sales Months**
+- **Insight**: January leads in total revenue and average revenue per transaction, suggesting a strong start to the year.
+- **Recommendation**: Analyze January's sales strategies and customer behavior to identify effective tactics for other months.
+
+**Insight 2: Dominant Products**
+- **Insight**: Products like "Smooth Silky Salty" and "After Nines" consistently generate high revenue and quantity sold across multiple countries.
+- **Recommendation**: Focus on promoting and stocking these high-performing products to capitalize on their strong performance.
+
+**Insight 3: Salesperson Performance**
+- **Insight**: Salespeople like "Madelene Upcott" and "Ches Bonnell" consistently generate high revenue and quantity sold across multiple countries.
+- **Recommendation**: Leverage the expertise of top-performing salespeople by assigning them to focus on their top-performing countries and products.
+
+## 📈 About Me
+
+**👋 Business Strategist → Data Analyst**
+
+*Leveraging 5+ years in business development to deliver data-driven insights*
+
+**- Background** : With a strong background in business development, I transitioned to data analysis to provide actionable insights that drive business growth.
+
+**- Skills** : Proficient in SQL, data cleaning, data profiling, statistical analysis, business intelligence, and strategic planning.
+
+**- Approach** : I focus on translating complex data into clear, actionable insights that inform strategic decision-making and operational improvements.
